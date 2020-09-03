@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CarlosTraining</string>
+    <string name="texto_cambiado">Texto cambiado!</string>
 </resources>
